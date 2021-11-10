@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **dsantosc04@informatica.iesvalledeljerteplasencia.es**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
