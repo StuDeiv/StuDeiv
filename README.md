@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Santos</h1>
 <h3 align="center">A backend/mobile developer student that is fueled by a mix of sport 🏊‍♀️ and coffee ☕</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=studeiv&label=Profile%20views&color=0e75b6&style=flat" alt="studeiv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=studeiv" alt="studeiv" /></a> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Java,Spring,Android**
